@@ -1,1 +1,1 @@
-"# Repositorio" 
+ha ocurrido un error ya que estamos cambiando modificando main desde 2 ramas, sin haber subido el archivo a remoto, por lo que tendriamos que elegir con que modificiacion nos quedamos en main. En mi caso voy a elegir que se quede con el merge de rama 2, ya que no puedo guardar mientras me de el error.
