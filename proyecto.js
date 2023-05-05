@@ -1,3 +1,8 @@
+function sum(op1,op2,op3){
+    resultado = op1+op2+op3;
+    console.log(resultado);
+    return resultado;
+}
 
 function subs(op1,op2){
     resultado = op1-op2;
